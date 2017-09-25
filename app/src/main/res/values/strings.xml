@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="message">"Hello World!"</string>
+    <string name="second_message">"Venga vaaa, no eres tan cruel"</string>
+</resources>
