@@ -15,7 +15,7 @@ public class HolaMundoActivity extends AppCompatActivity {
     private TextView txvMessage;
 
     @Override
-    // Comentario de una línea
+    // Este método ejecuta la inicialización de la Activity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hola_mundo);
